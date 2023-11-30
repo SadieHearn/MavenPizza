@@ -1,6 +1,6 @@
 /******************************************************************************************************************************************
 TITLE: Maven Pizza Sales Analysis
-AUTHOR: Sadie Villarrubia
+AUTHOR: Sadie Hearn
 DESCRIPTION: Query data from multiple tables within the database for Maven's Pizzas to evalute the store's sales trends over the course
 of one year. Measures include quantity of orders, quantity of pizzas ordered, revenue, quantity of type of pizzas, and price per order.
 These measures will help determine popular days of the week, peak and lull hours, sales per quarter, and most and least popular pizzas.
