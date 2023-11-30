@@ -1,6 +1,6 @@
 /******************************************************************************************************************************************
 TITLE: Pizza Order Details Data Cleaning
-AUTHOR: Sadie Villarrubia
+AUTHOR: Sadie Hearn
 DESCRIPTION: This script focuses on cleaning the data from the pizzas_raw table.
 Skills Used- aggregate functions, window functions, updating columns, altering columns, CTE 
 
