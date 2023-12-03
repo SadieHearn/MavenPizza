@@ -24,7 +24,6 @@ Files
 | PizzaProject.sql  | SQL script containing all queries used to find the measures necessary for analysis. |
 | PizzaSales.pbix  | Interactive dashboard visualizing the restaurant's pizza sales. |
 
-
 Software
 ---
 Microsoft SQL Server: Clean and query the data
