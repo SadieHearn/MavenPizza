@@ -8,7 +8,7 @@ These measures were used to determine popular days of the week, peak and lull ho
 Knowing this information is useful to the stakeholders for making decsions about potential changes to the hours/days of operation 
 and pizza type availability.
 
-An interactive dashboard was created to present the data to stakeholders and help them make informed decsions about their business.
+An interactive dashboard was created to present the data to stakeholders and help them make informed decisions about their business.
 
 Files
 ---
