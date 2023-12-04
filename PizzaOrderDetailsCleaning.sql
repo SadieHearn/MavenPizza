@@ -16,7 +16,7 @@ select *
 into
 	pizza_order_details
 from
-	pizza_order_details_raw
+	PizzaOrderDetailsRAW
 ;
 
 -------------------------------------------------------------------------------------------------------------------------------------------
