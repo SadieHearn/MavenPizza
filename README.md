@@ -15,14 +15,14 @@ Files
 | File Name  | Description |
 | ------------- | ------------- |
 | pizza_types.xlsx | Spreadsheet describing the name and ingredients included on each pizza available at the restaurant. This dataset did not require cleaning.  |
-| PizzasRAW.xlsx | Spreadhseet describing the price for each pizza at every size available (small, medium, large). This is the raw dataset before cleaning. |
-| PizzaOrdersRAW.xlsx | Spreadsheet showing all order id's and when each order was placed. This is the raw dataset before cleaning.  |
-| PizzaOrderDetailsRAW.xlsx | Spreadsheet describing the pizzas and quantity ordered for each order id. This is the raw dataset before cleaning |
-| PizzasCleaning.sql  | SQL script containing all steps involved to clean the dataset provided by the PizzasRAW.xlxs file.  |
-| PizzaOrdersCleaning.sql  | SQL script containing all steps involved to clean the dataset provided by the PizzaOrdersRAW.xlxs file.  |
-| PizzaOrderDetailsCleaning.sql  | SQL script containing all steps involved to clean the dataset provided by the PizzaOrderDetailsRAW.xlxs file.  |
-| PizzaProject.sql  | SQL script containing all queries used to find the measures necessary for analysis. |
-| PizzaSales.pbix  | Interactive dashboard visualizing the restaurant's pizza sales. |
+| pizzas_RAW.xlsx | Spreadhseet describing the price for each pizza at every size available (small, medium, large). This is the raw dataset before cleaning. |
+| pizza_orders_RAW.xlsx | Spreadsheet showing all order id's and when each order was placed. This is the raw dataset before cleaning.  |
+| pizza_order_oetails_RAW.xlsx | Spreadsheet describing the pizzas and quantity ordered for each order id. This is the raw dataset before cleaning |
+| pizzas_cleaning.sql  | SQL script containing all steps involved to clean the dataset provided by the PizzasRAW.xlxs file.  |
+| pizza_orders_cleaning.sql  | SQL script containing all steps involved to clean the dataset provided by the PizzaOrdersRAW.xlxs file.  |
+| pizza_order_details_cleaning.sql  | SQL script containing all steps involved to clean the dataset provided by the PizzaOrderDetailsRAW.xlxs file.  |
+| pizza_project.sql  | SQL script containing all queries used to find the measures necessary for analysis. |
+| pizza_sales.pbix  | Interactive dashboard visualizing the restaurant's pizza sales. |
 
 Software
 ---
