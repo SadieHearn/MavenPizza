@@ -17,7 +17,7 @@ Files
 | pizza_types.xlsx | Spreadsheet describing the name and ingredients included on each pizza available at the restaurant. This dataset did not require cleaning.  |
 | pizzas_RAW.xlsx | Spreadhseet describing the price for each pizza at every size available (small, medium, large). This is the raw dataset before cleaning. |
 | pizza_orders_RAW.xlsx | Spreadsheet showing all order id's and when each order was placed. This is the raw dataset before cleaning.  |
-| pizza_order_oetails_RAW.xlsx | Spreadsheet describing the pizzas and quantity ordered for each order id. This is the raw dataset before cleaning |
+| pizza_order_details_RAW.xlsx | Spreadsheet describing the pizzas and quantity ordered for each order id. This is the raw dataset before cleaning |
 | pizzas_cleaning.sql  | SQL script containing all steps involved to clean the dataset provided by the PizzasRAW.xlxs file.  |
 | pizza_orders_cleaning.sql  | SQL script containing all steps involved to clean the dataset provided by the PizzaOrdersRAW.xlxs file.  |
 | pizza_order_details_cleaning.sql  | SQL script containing all steps involved to clean the dataset provided by the PizzaOrderDetailsRAW.xlxs file.  |
